@@ -1,4 +1,5 @@
 # Interactive Spline Tool
+Link to video: https://youtu.be/2VsH4GsgPQo
 ## Requirements
 - Processing p5.js
 - Google Chrome Reccommended (Or check if WebGL is enabled for your preferred browser)
